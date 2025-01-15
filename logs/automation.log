@@ -1,0 +1,63 @@
+2025-01-15 11:14:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 11:14:48 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:14:51 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:18:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\CrossBrowserTesting.xml
+
+2025-01-15 11:18:18 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:18:21 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:18:26 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:18:29 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:18:33 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:18:36 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:19:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\CrossBrowserTesting.xml
+
+2025-01-15 11:19:17 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:19:20 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:19:27 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:19:31 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:20:09 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:20:11 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:29:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 11:29:26 INFO  TC001_AccountRegistrationTest:15 - ****Test started *****
+2025-01-15 11:29:28 INFO  TC001_AccountRegistrationTest:37 - ****validate the message *****
+2025-01-15 11:56:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 11:56:44 INFO  TC002_LoginTest:15 - Test started logintest
+2025-01-15 12:45:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 12:46:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 12:53:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 12:53:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 12:56:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 13:12:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\grouping.xml
+
+2025-01-15 13:12:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\grouping.xml
+
+2025-01-15 13:14:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\grouping.xml
+
+2025-01-15 13:14:08 INFO  TC002_LoginTest:15 - Test started logintest
+2025-01-15 14:26:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\testng.xml
+
+2025-01-15 14:36:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumNew\Opencart\test-output\testng-failed.xml
+
